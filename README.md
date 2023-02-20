@@ -12,14 +12,14 @@ I'm always looking for opportunities to collaborate and learn from others, so fe
 Stats
 [![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexofficial&show_icons=true&theme=radical)](https://github.com/Your GitHub Username/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?alexofficial=Your GitHub Username&layout=compact&theme=radical)](https://github.com/Your GitHub Username/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?alexofficial=alexofficial&layout=compact&theme=radical)](https://github.com/Your GitHub Username/github-readme-stats)
 
 - 🔭 I’m currently working on Deep Generative models (GANs) for Image analysis.
 <!-- - 🌱 I’m currently learning  -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: alexpatsanis@gmail.com | 
+- 📫 How to reach me: alexpatsanis@gmail.com  
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 - 
