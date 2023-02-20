@@ -12,7 +12,7 @@ I'm always looking for opportunities to collaborate and learn from others, so fe
 Stats
 [![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexofficial&show_icons=true&theme=radical)](https://github.com/alexofficial/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?alexofficial=alexofficial&layout=compact&theme=radical)](https://github.com/alexofficial/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexofficial&layout=compact&theme=radical)](https://github.com/alexofficial/github-readme-stats)
 
 - 🔭 I’m currently working on Deep Generative models (GANs) for Image analysis.
 <!-- - 🌱 I’m currently learning  -->
