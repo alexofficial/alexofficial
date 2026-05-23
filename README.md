@@ -1,18 +1,37 @@
+# Alexandros Patsanis
 
-I'm Alexandros Patsanis, and welcome to my GitHub profile!
+Data Scientist focused on Artificial Intelligence, Deep Learning, Computer Vision, and Cloud Computing.
 
-## About Me
+I have more than 10 years of experience building machine learning systems and AI-driven applications using Python, TensorFlow, PyTorch, SQL, Docker, and cloud technologies.
 
-I'm a Data Scientist with extensive experience in Deep Learning, Big Data, Cloud Computing, Data Processing and Image Analysis. 
-With over a decade of programming experience in various programming languages such as Python, SQL, PHP, Java, etc.
-I have refined and applied my skills to solve complex real world problems
+My interests include:
 
-I'm always looking for opportunities to collaborate and learn from others, so feel free to reach out!
+- Deep Learning
+- Generative AI
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- Computer Vision
+- Medical Image Analysis
+- Data Engineering
 
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexofficial&show_icons=true&theme=radical)](https://github.com/alexofficial/github-readme-stats)
+Currently working on Generative AI systems, multimodal applications, and intelligent automation.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexofficial&layout=compact&theme=radical)](https://github.com/alexofficial/github-readme-stats)
+## Technologies
 
-- 🔭 I’m currently working on Deep Generative models (GANs) for Image analysis.
-- 📫 How to reach me: alexpatsanis@gmail.com  
+Python, SQL, Java, PHP, TensorFlow, PyTorch, Docker, Linux, LangChain, Vector Databases
+
+## Projects
+
+- PCaGAN — GANs for automated prostate cancer detection on MRI
+- CROPro — Automated cropping tool for prostate MR images
+- AI systems using LLM and RAG architectures
+
+## GitHub
+
+https://github.com/alexofficial
+
+## Contact
+
+alexpatsanis@gmail.com
 
